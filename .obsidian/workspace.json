@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_cgas zotero template.md",
+                "file": "_utils/_cgas zotero template.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "cdeed3597cbfff1b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +40,7 @@
       {
         "id": "43a178b718fdfb75",
         "type": "tabs",
-        "dimension": 37.598597721297104,
+        "dimension": 49.956178790534615,
         "children": [
           {
             "id": "b5d96abd5c3b3dd9",
@@ -71,7 +80,7 @@
       {
         "id": "751aed594be73423",
         "type": "tabs",
-        "dimension": 62.40140227870289,
+        "dimension": 50.04382120946538,
         "children": [
           {
             "id": "37e349a210be68a3",
@@ -101,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_cgas zotero template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_cgas zotero template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_cgas zotero template.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -152,14 +157,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "852370199f26260f",
+  "active": "cdeed3597cbfff1b",
   "lastOpenFiles": [
+    "CGAS.md",
     "@corsoDiffDockDiffusionSteps2022.md",
-    "_cgas zotero template.md",
+    "getting started.md",
+    "_utils/_cgas zotero template.md",
     "Dysregulated cGAS-STING signaling leads to lost QALYs for rare disease patients, SLE patients as well as the general population.md",
     "diffusion models.md",
     "diffusion models engable sota fragment docking.md",
-    "CGAS.md",
     "STING pathway.md"
   ]
 }

@@ -1,11 +1,11 @@
 {
   "collapse-filter": true,
-  "search": "path:notes",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#source",
@@ -25,7 +25,7 @@
       "query": "tag:#problem",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 5399264
       }
     },
     {
@@ -53,6 +53,6 @@
   "repelStrength": 10.0651041666667,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.65820175407182,
+  "scale": 1.273208726636972,
   "close": true
 }

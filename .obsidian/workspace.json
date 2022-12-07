@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/protein.md",
+                "file": "notes/blind docking.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c391289a13fddac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/docked small-molecule library.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9eb13fe673e7e503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/in-vivo toxicology.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/docked small-molecule library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/docked small-molecule library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/docked small-molecule library.md"
+              }
             }
           }
         ]
@@ -150,17 +179,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37e349a210be68a3",
+  "active": "c391289a13fddac8",
   "lastOpenFiles": [
-    "notes/protein.md",
-    "notes/blind docking.md",
+    "notes/dysregulated cGAS-STING signaling leads to lost QALYs for rare disease patients, SLE patients as well as the general population.md",
     "notes/diffdock.md",
-    "references/@lamaDevelopmentHumanCGASspecific2019.md",
-    "notes/diffusion models.md",
-    "notes/CGAS.md",
-    "notes/Dysregulated cGAS-STING signaling leads to lost QALYs for rare disease patients, SLE patients as well as the general population.md",
-    "notes/cGAS small molecule inhibitor.md",
-    "notes/diffusion models engable sota fragment docking.md",
-    "references/@corsoDiffDockDiffusionSteps2022.md"
+    "notes/Equibind.md",
+    "notes/small molecule.md",
+    "notes/docked small-molecule library.md",
+    "notes/small-molecule library.md",
+    "notes/blind docking.md",
+    "notes/Quickvina Wide.md",
+    "notes/in-vitro toxicology.md",
+    "notes/in-vivo toxicology.md"
   ]
 }

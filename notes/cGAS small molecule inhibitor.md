@@ -3,4 +3,4 @@
 ## existing small candidates
 
 ## potential approaches to generate new lead compounds 
-* [[fragment docking]] against [[CGAS]] to identify new inhibitors - [[diffusion models engable sota fragment docking]]
+* [[fragment docking]] against [[cGAS]] to identify new inhibitors - [[diffusion models engable sota fragment docking]]

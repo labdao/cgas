@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/docked small-molecule library.md",
+                "file": "notes/cGAS.md",
                 "mode": "source",
                 "source": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/docked small-molecule library.md",
+                "file": "notes/cGAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/docked small-molecule library.md",
+                "file": "notes/cGAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/docked small-molecule library.md"
+                "file": "notes/cGAS.md"
               }
             }
           }
@@ -181,15 +181,15 @@
   },
   "active": "c391289a13fddac8",
   "lastOpenFiles": [
+    "README.md",
+    "notes/docked small-molecule library.md",
     "notes/dysregulated cGAS-STING signaling leads to lost QALYs for rare disease patients, SLE patients as well as the general population.md",
     "notes/diffdock.md",
     "notes/Equibind.md",
     "notes/small molecule.md",
-    "notes/docked small-molecule library.md",
     "notes/small-molecule library.md",
     "notes/blind docking.md",
     "notes/Quickvina Wide.md",
-    "notes/in-vitro toxicology.md",
-    "notes/in-vivo toxicology.md"
+    "notes/in-vitro toxicology.md"
   ]
 }

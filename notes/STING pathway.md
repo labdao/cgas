@@ -1,2 +1,2 @@
 #cgas 
-[[CGAS]] [[STING]]
+[[cGAS]] [[STING]]

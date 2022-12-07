@@ -6,7 +6,7 @@
 * [[inflammaging]] and [[senescence]]
 
 ## potential solutions 
-* [[small molecule]] inhibitors of [[CGAS]] - [[cGAS small molecule inhibitor]]
+* [[small molecule]] inhibitors of [[cGAS]] - [[cGAS small molecule inhibitor]]
 * [[STING]]
 
 ## notes

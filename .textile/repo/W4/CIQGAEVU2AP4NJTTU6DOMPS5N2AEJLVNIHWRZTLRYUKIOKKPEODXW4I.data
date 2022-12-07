@@ -1,2 +1,0 @@
-#cgas 
-[[CGAS]] [[STING]]

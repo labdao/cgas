@@ -1,7 +1,7 @@
 #cgas 
 
 ## about
-an [[abcellera]] company - based on work by [[gianni de fabritiis]]
+an [[abcellera]] company - based on work by [[gianni de fabritiis]] that is focused on [[machine learning]] tools for in-silico [[small molecule]] drug discovery
 
 ## overview
 ![[Pasted image 20221212095747.png]]

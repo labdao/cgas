@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/HYP - cGAS small molecule inhibitors can reduce its dysregulation in chronic disease and organismal aging.md",
+                "file": "notes/playmolecule.md",
                 "mode": "source",
                 "source": true
               }
@@ -261,15 +261,15 @@
   },
   "active": "37e349a210be68a3",
   "lastOpenFiles": [
-    "notes/HYP - cGAS small molecule inhibitors can reduce its dysregulation in chronic disease and organismal aging.md",
-    "_utils/getting started.md",
-    "notes/CHALLENGE - dysregulated cGAS-STING signaling leads to lost QALYs for rare disease patients, SLE patients as well as the general population.md",
+    "notes/playmolecule.md",
+    "notes/comet assay.md",
     "notes/CLM - organism-wide senescence is caused by hyper-activated cGAS-STING signaling.md",
+    "notes/small molecule.md",
+    "notes/HYP - cGAS small molecule inhibitors can reduce its dysregulation in chronic disease and organismal aging.md",
+    "notes/CHALLENGE - dysregulated cGAS-STING signaling leads to lost QALYs for rare disease patients, SLE patients as well as the general population.md",
+    "_utils/getting started.md",
     "notes/inflammaging.md",
     "notes/CLM - aicardi goutieres syndrome is caused by hyper-activated cGAS-STING signaling.md",
-    "notes/CLM - system lupus erythematodes forms are caused by hyper-activated cGAS-STING signaling.md",
-    "notes/CLM - inhibition of the STING pathway reduces premature senescence in-vitro.md",
-    "references/@aguadoInhibitionCGASSTINGPathway2021.md",
-    "notes/HYP - diffusion models engable sota fragment docking.md"
+    "notes/CLM - system lupus erythematodes forms are caused by hyper-activated cGAS-STING signaling.md"
   ]
 }

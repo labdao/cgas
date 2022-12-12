@@ -7,3 +7,7 @@
 ## claims 
 * [[CLM - cGAS inhibitors have already been developed]]
 * [[CLM - small molecules targeting the STING pathway have already been developed]]
+
+## concepts
+* [[small molecule]] 
+* [[cGAS]] 

@@ -10,7 +10,6 @@ Please see the [[README]] to learn about how to contribute to this collaborative
 
 ## hypothesized solutions
 * [[HYP - cGAS small molecule inhibitors can reduce its dysregulation in chronic disease and organismal aging]]
-	* [[small molecule]] inhibitors of [[cGAS]] 
 
 ## concepts
 [[STING pathway]]

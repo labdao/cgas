@@ -31,7 +31,7 @@ other: [[membrane]] builder
 pathwaymap based on [[ECFP4]] fingerprint
 
 ### ligand generation 
-generative - [[crem library]] 
+generative - [[crem]] 
 
 ## [[docking]]
 [[pm isba]] - [[adaptive sampling molecular dynamics]] [[@doerrOntheFlyLearningSampling2014]]
@@ -41,7 +41,7 @@ generative - [[crem library]]
 
 ## questions
 * interesting models
-	* [[crem library]] implementation - is the user supplying their fragment library to you?
+	* [[crem]] implementation - is the user supplying their fragment library to you?
 	* parameterize - 
 	* [[adaptive sampling molecular dynamics]]
 		* seems like difference between isba and isca is focus on protein-ligand vs. protein -protein interaction

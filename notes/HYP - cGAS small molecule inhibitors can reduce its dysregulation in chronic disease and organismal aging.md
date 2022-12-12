@@ -1,6 +1,9 @@
 #cgas #hypothesis 
 
-## existing small candidates
+## related hypothesis
+* [[HYP - diffusion models engable sota fragment docking]]
+* [[HYP - fragment docking can be used to identify a small molecule inhibitor of cGAS]]
 
-## potential approaches to generate new lead compounds 
-* [[fragment docking]] against [[cGAS]] to identify new inhibitors - [[HYP - diffusion models engable sota fragment docking]]
+## claims 
+* [[CLM - cGAS inhibitors have already been developed]]
+* [[CLM - small molecules targeting the STING pathway have already been developed]]

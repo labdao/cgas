@@ -6,7 +6,7 @@
 * [[inflammaging]] and [[senescence]]
 
 ## potential solutions 
-* [[small molecule]] inhibitors of [[cGAS]] - [[cGAS small molecule inhibitor]]
+* [[small molecule]] inhibitors of [[cGAS]] - [[HYP - cGAS small molecule inhibitors can reduce its dysregulation in chronic disease and organismal aging]]
 * [[STING]]
 
 ## notes

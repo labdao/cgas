@@ -1,5 +1,5 @@
 ## Welcome to the cGAS-STING signaling discourse graph
-This repository contains notes and discourse around the problem that [[dysregulated cGAS-STING signaling leads to lost QALYs for rare disease patients, SLE patients as well as the general population]].
+This repository contains notes and discourse around the problem that [[CHALLENGE - dysregulated cGAS-STING signaling leads to lost QALYs for rare disease patients, SLE patients as well as the general population]].
 
 ## How to learn about discourse graphs
 * get a general introduction into the topics with Joel Chan's [writing](https://oasis-lab.gitbook.io/roamresearch-discourse-graph-extension/fundamentals/what-is-a-discourse-graph).

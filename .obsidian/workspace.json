@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/blind docking.md",
+                "file": "references/@goossensAssessmentFragmentDocking2020.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/cGAS.md",
+                "file": "_utils/_cgas zotero template.md",
                 "mode": "source",
                 "source": true
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/cGAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/cGAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/cGAS.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c391289a13fddac8",
+  "active": "37e349a210be68a3",
   "lastOpenFiles": [
-    "README.md",
-    "notes/docked small-molecule library.md",
-    "notes/dysregulated cGAS-STING signaling leads to lost QALYs for rare disease patients, SLE patients as well as the general population.md",
-    "notes/diffdock.md",
-    "notes/Equibind.md",
-    "notes/small molecule.md",
-    "notes/small-molecule library.md",
-    "notes/blind docking.md",
-    "notes/Quickvina Wide.md",
-    "notes/in-vitro toxicology.md"
+    "references/@goossensAssessmentFragmentDocking2020.md",
+    "notes/CHALLENGE - dysregulated cGAS-STING signaling leads to lost QALYs for rare disease patients, SLE patients as well as the general population.md",
+    "notes/HYP - diffdock is a sota affinity ranking model.md",
+    "notes/CLM - diffdock is a sota blind docking model.md",
+    "notes/HYP - cGAS small molecule inhibitors can reduce its dysregulation in chronic disease and organismal aging.md",
+    "notes/HYP - diffusion models engable sota fragment docking.md",
+    "notes/CLM - combined affinity ranking leads to better results than ligand based affinity ranking.md",
+    "_utils/_cgas zotero template.md",
+    "notes/cGAS.md",
+    "README.md"
   ]
 }

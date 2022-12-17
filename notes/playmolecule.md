@@ -6,7 +6,7 @@ an [[abcellera]] company - based on work by [[gianni de fabritiis]] that is focu
 ## overview
 ![[Pasted image 20221212095747.png]]
 
-## [[target identification]] 
+## [[target identification]] tools
 ### [[receptor preparation]]
  - [[pm proteinprepare]]
  - ace profiler - [[homology]] search across [[PDB]] based on sequence
@@ -15,31 +15,27 @@ an [[abcellera]] company - based on work by [[gianni de fabritiis]] that is focu
 * 1. [[pm system builder]]
 * 2. [[pm simple run]] - [[@doerrHTMDHighThroughputMolecular2016]]
 * 3. [[pm isca]] - [[adaptive sampling molecular dynamics]] - [[@doerrOntheFlyLearningSampling2014]]
+other tools: [[membrane]] builder
 
-other: [[membrane]] builder
+### [[binding site]] identification
+* [[pm cryptic scout]] - check for crytpic [[binding site]]
+* [[pm plexview]] - vis interaction given ligand and protein
+* [[deepsite]] - [[binding site]] identification
 
-### [[binding site]] 
-[[pm cryptic scout]] - check for crytpic [[binding site]]
-[[pm plexview]] - vis interaction given ligand and protein
-[[deepsite]] - [[binding site]] identification
-
-## [[small molecule]]
+## [[small molecule]] related tools
 ### [[ligand preparation]]
 [[pm aceprep]] - [[ligand preparation]] and [[conformer]] generation
 
-### representation search 
-pathwaymap based on [[ECFP4]] fingerprint
-
-### ligand generation 
-generative - [[crem]] 
-
-## [[docking]]
+### [[docking]]
 [[pm isba]] - [[adaptive sampling molecular dynamics]] [[@doerrOntheFlyLearningSampling2014]]
 [[kdeep]] - [[@jimenezKDEEPProteinLigand2018]]
 [[acedock]] - based on [[rdock]] - requires a [[template ligand]]
 
+### others
+pathwaymap based on [[ECFP4]] fingerprint
+generative - ligand generation based on [[crem]] 
 
-## questions
+## questions to the team
 * interesting models
 	* [[crem]] implementation - is the user supplying their fragment library to you?
 	* parameterize - 
@@ -49,5 +45,5 @@ generative - [[crem]]
 * is there an API for models?
 * how do you version the containers? does the user receive the version?
 
-## related links
-[[@doerrTorchMDDeepLearning2021]] - [[stefan doerr]]
+## related work from the group
+[[@doerrTorchMDDeepLearning2021]] - [[stefan doerr]] author

@@ -1,4 +1,4 @@
-#claim 
+#hypothesis 
 ## concepts
 [[aging]]
 [[inflammaging]]

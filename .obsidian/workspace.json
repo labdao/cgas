@@ -97,7 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/playmolecule.md",
+                "file": "notes/CLM - molecular dynamics can be effectively used to approximate fragment binding.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f3b42f7f9279f0fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/CLM - useful benchmarks for fragment docking exist.md",
                 "mode": "source",
                 "source": true
               }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -261,15 +273,15 @@
   },
   "active": "37e349a210be68a3",
   "lastOpenFiles": [
-    "notes/playmolecule.md",
-    "notes/comet assay.md",
-    "notes/CLM - organism-wide senescence is caused by hyper-activated cGAS-STING signaling.md",
-    "notes/small molecule.md",
-    "notes/HYP - cGAS small molecule inhibitors can reduce its dysregulation in chronic disease and organismal aging.md",
+    "notes/CLM - useful benchmarks for fragment docking exist.md",
+    "notes/HYP - fragment based drug discovery can be accelerated with fragment docking and simulation.md",
+    "notes/CLM - molecular dynamics can be effectively used to approximate fragment binding.md",
+    "notes/fragment docking.md",
+    "notes/CLM - docking can be used to approximate fragment binding.md",
+    "notes/HYP - fragment based drug discovery can be used to identify a small molecule inhibitor of cGAS.md",
+    "notes/CLM - aging is a consequence of organism-wide senescence.md",
     "notes/CHALLENGE - dysregulated cGAS-STING signaling leads to lost QALYs for rare disease patients, SLE patients as well as the general population.md",
-    "_utils/getting started.md",
-    "notes/inflammaging.md",
-    "notes/CLM - aicardi goutieres syndrome is caused by hyper-activated cGAS-STING signaling.md",
-    "notes/CLM - system lupus erythematodes forms are caused by hyper-activated cGAS-STING signaling.md"
+    "notes/HYP - organism-wide senescence is caused by hyper-activated cGAS-STING signaling.md",
+    "notes/HYP - cGAS small molecule inhibitors can reduce its dysregulation in chronic disease and organismal aging.md"
   ]
 }
